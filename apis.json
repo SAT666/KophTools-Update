@@ -1,1 +1,6 @@
-
+[
+  "http://167.235.229.108/m/{0}",
+  "http://167.235.229.108/{0}",
+  "http://masss.pythonanywhere.com/storage?auth=IEOIJE54esfsipoE56GE4&appid={0}",
+  "https://raw.githubusercontent.com/sushi-dev55-alt/sushitools-games-repo-alt/refs/heads/main/{0}.zip"
+]
