@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>8.0.0.0</version>
-    <url>https://github.com/SAT666/KophTools-Update/raw/refs/heads/main/KophTools.zip</url>
+    <url>https://raw.githubusercontent.com/SAT666/KophTools-Update/refs/heads/main/KophTools.zip</url>
     <changelog>https://github.com/SAT666/KophTools-Update/releases/tag/v1.0.0</changelog>
     <mandatory>false</mandatory>
 </item>
