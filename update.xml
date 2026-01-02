@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>8.0.0.0</version>
+    <version>1.0.0.0</version>
     <url>https://github.com/SAT666/KophTools-Update/raw/main/KophSetup.exe</url>
     <changelog>https://github.com/SAT666/KophTools-Update/releases/tag/v1.0.0</changelog>
     <mandatory>false</mandatory>
